@@ -91,7 +91,9 @@ philosophy: "Automation over manual work, consistency over motivation"
 
 </div>
 
-🎯 **Snoonu Hackathon 2026 - Product Concept**
+## 🎯 Competitions
+
+**Snoonu Hackathon 2026 - Product Concept**
 
 **Role:** Product Lead & Figma Designer
 
