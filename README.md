@@ -25,7 +25,7 @@
 name: Lyba Qadir
 located_in: Doha, Qatar
 current_role: DevOps Engineer Intern @ Chorate AI
-education: BS Software Engineering @ UDST (2023-2027)
+education: BS Software Engineering @ UDST (2023-2027 Expected)
 focus_areas: [DevOps, Backend Development, AI, Cloud Infrastructure]
 philosophy: "Automation over manual work, consistency over motivation"
 ```
@@ -79,22 +79,6 @@ philosophy: "Automation over manual work, consistency over motivation"
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lybaqadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lybaqadir&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lybaqadir&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ---
 
