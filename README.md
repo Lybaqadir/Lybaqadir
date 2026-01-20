@@ -90,7 +90,8 @@ philosophy: "Automation over manual work, consistency over motivation"
 [![MacMart](https://img.shields.io/badge/🍎_MacMart-E--Commerce_Website-blue?style=for-the-badge)](https://github.com/Lybaqadir)
 
 </div>
-🎯 Snoonu Hackathon 2026 - Product Concept
+
+🎯 **Snoonu Hackathon 2026 - Product Concept**
 
 **Role:** Product Lead & Figma Designer
 
