@@ -1,124 +1,151 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Lyba%20Qadir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Lyba%20Qadir&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Backend%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-### 🚀 DevOps Engineer Intern | AI & Software Engineering Student  
-🎓 University of Doha for Science & Technology (UDST)  
-⚙️ DevOps • Cloud • Containers • AI • Scalable Systems
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer+Intern+%40+Chorate+AI;Software+Engineering+Student+%40+UDST;Building+Scalable+%26+Reliable+Systems;Automation+%7C+Containers+%7C+Cloud" alt="Typing SVG" /></a>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7F7CFF&center=true&vCenter=true&width=650&lines=DevOps+%26+AI+Enthusiast;Building+Reliable+and+Scalable+Systems;Automation+Over+Manual+Work;Consistency+Over+Motivation" />
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 🌌 About Me  
+## 🚀 About Me
 
-I’m a **Software Engineering student at UDST** with a strong focus on **DevOps and Artificial Intelligence**.  
-I enjoy building systems that are **automated, scalable, and production-ready**, while continuously improving my understanding of **backend engineering, infrastructure, and AI-driven solutions**.
+```yaml
+name: Lyba Qadir
+located_in: Doha, Qatar
+current_role: DevOps Engineer Intern @ Chorate AI
+education: BS Software Engineering @ UDST (2023-2027)
+focus_areas: [DevOps, Backend Development, AI, Cloud Infrastructure]
+philosophy: "Automation over manual work, consistency over motivation"
+```
 
-Currently working as a **DevOps Engineer Intern at Chorate AI**, gaining hands-on experience with **containerization, version control, deployment workflows**, and real-world engineering practices.
+🎯 **Currently Working On:**
+- Containerizing applications with Docker
+- Contributing to open-source projects
+- Exploring cloud-native technologies
+
+💡 **Fun Fact:** I believe in learning by building — every project teaches me something new about engineering systems at scale.
 
 ---
 
-## 🧭 Core Focus  
+## 🛠️ Technical Arsenal
 
-```txt
-⚙️ DevOps        → Docker, CI/CD, Automation, Containers
-🧠 AI & ML       → Foundations, Data Handling, AI Integration
-🏗️ Backend       → Java OOP, Python, System Design
-☁️ Infrastructure→ Linux, Virtual Machines, Cloud Basics
-## 🛠️ Tech Stack  
+<div align="center">
 
-### 👩‍💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### 💻 Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### ⚙️ DevOps & Cloud  
+### ⚙️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
----
+### 🗄️ Databases & Data
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧠 AI & Data  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🔐 Cybersecurity & Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-83DA77?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+
+### 🎨 Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
+### 📚 Methodologies
+![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
-### 🎨 Design & Productivity  
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
-
----
-
-## 💼 Experience  
-
-### ⚙️ DevOps Engineer Intern — **Chorate AI**  
-**Remote | Part-time**  
-- Containerized applications using Docker  
-- Managed source code with Git & GitHub  
-- Implemented UI and branding updates across codebases  
-- Supported backend tasks and infrastructure improvements  
-
-### 🎓 Peer Tutor — **University of Doha for Science & Technology**  
-- Tutored students in **Intro to Data & Cybersecurity**  
-- Assisted with labs, quizzes, and practical exercises  
-- Strengthened mentoring and communication skills  
+</div>
 
 ---
 
-## 🧪 Projects  
-
-### 🚗 GarageGo — Java Garage Management System  
-- Java-based backend system using **OOP principles**  
-- Implemented **Strategy & Decorator design patterns**  
-- Vehicle, customer, booking & service management  
-🔗 https://github.com/Lybaqadir/GarageGo  
-
-### 🍎 MacMart — Apple Products Website  
-- Multi-page responsive website  
-- Built using **HTML & CSS**  
-- Product listings, pricing & contact form  
-🔗 https://github.com/Lybaqadir/MacMart  
-
-### 🏆 Snoonu Hackathon 2026  
-- Product ideation & user flow design  
-- Created **Figma pitch deck**  
-- Focused on improving service discovery experience  
-
----
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lybaqadir&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lybaqadir&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lybaqadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lybaqadir&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lybaqadir&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
 
-## 🌐 Connect With Me  
+## 🏆 Featured Projects
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Lybaqadir-181717?style=for-the-badge&logo=github)](https://github.com/Lybaqadir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lyba--qadir-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lyba-qadir)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:60304987@udst.edu.qa)
+[![GarageGo](https://img.shields.io/badge/🔧_GarageGo-Java_Management_System-orange?style=for-the-badge)](https://github.com/Lybaqadir)
+[![MacMart](https://img.shields.io/badge/🍎_MacMart-E--Commerce_Website-blue?style=for-the-badge)](https://github.com/Lybaqadir)
+
+</div>
+### 🎯 Snoonu Hackathon 2026 - Product Concept
+**Role:** Product Lead & Figma Designer
+
+Led ideation and created pitch deck for smart post-order suggestion feature. Translated user insights into business-aligned presentation during 3-day hackathon.
+
+---
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lybaqadir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lyba_Qadir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyba-qadir)
+[![Email](https://img.shields.io/badge/Email-60304987@udst.edu.qa-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:60304987@udst.edu.qa)
+
+<br/>
+
+**📞 Contact:** +974 50518763  
+**🎂 DOB:** August 10, 2004  
+**🌍 Location:** Doha, Qatar
 
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+---
+
+<div align="center">
+
+### 💭 Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😄 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lybaqadir&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Lybaqadir?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/Lybaqadir?style=for-the-badge&color=yellow)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+
+**⭐ From [Lybaqadir](https://github.com/Lybaqadir) | Built with 💜 and ☕**
+
+</div>
