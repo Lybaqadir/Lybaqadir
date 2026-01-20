@@ -90,7 +90,8 @@ philosophy: "Automation over manual work, consistency over motivation"
 [![MacMart](https://img.shields.io/badge/🍎_MacMart-E--Commerce_Website-blue?style=for-the-badge)](https://github.com/Lybaqadir)
 
 </div>
-### 🎯 Snoonu Hackathon 2026 - Product Concept
+🎯 Snoonu Hackathon 2026 - Product Concept
+
 **Role:** Product Lead & Figma Designer
 
 Led ideation and created pitch deck for smart post-order suggestion feature. Translated user insights into business-aligned presentation during 3-day hackathon.
@@ -107,7 +108,6 @@ Led ideation and created pitch deck for smart post-order suggestion feature. Tra
 <br/>
 
 **📞 Contact:** +974 50518763  
-**🎂 DOB:** August 10, 2004  
 **🌍 Location:** Doha, Qatar
 
 </div>
@@ -123,11 +123,6 @@ Led ideation and created pitch deck for smart post-order suggestion feature. Tra
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lybaqadir&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Lybaqadir?style=for-the-badge&color=blue)
-![Stars](https://img.shields.io/github/stars/Lybaqadir?style=for-the-badge&color=yellow)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 
 **⭐ From [Lybaqadir](https://github.com/Lybaqadir) | Built with 💜 and ☕**
