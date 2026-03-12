@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Lyba%20Qadir&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Backend%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer+Intern+%40+Chorate+AI;Software+Engineering+Student+%40+UDST;Building+Scalable+%26+Reliable+Systems;Automation+%7C+Containers+%7C+Cloud" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Undergraduate+Software+Engineer+%40+@+UDST;Building+Scalable+%26+Reliable+Systems;Automation+%7C+Containers+%7C+Cloud" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -22,12 +22,11 @@
 ## 🚀 About Me
 
 ```yaml
-name: Lyba Qadir
-located_in: Doha, Qatar
-current_role: DevOps Engineer Intern @ Chorate AI
-education: BS Software Engineering @ UDST (2023-2027 Expected)
+Name: Lyba Qadir
+Located_in: Doha, Qatar
+Education: BS Software Engineering @ UDST (2023-2027 Expected)
 focus_areas: [DevOps, Backend Development, AI, Cloud Infrastructure]
-philosophy: "Automation over manual work, consistency over motivation"
+Philosophy: "Automation over manual work, consistency over motivation"
 ```
 
 🎯 **Currently Working On:**
