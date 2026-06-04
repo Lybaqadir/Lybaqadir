@@ -2,16 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Lyba%20Qadir&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Integration%20%7C%20Secure%20Systems&descAlignY=55&descAlign=50"/>
 
-<br/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+Dev+%7C+AlexMind+Workspace+MVP;MLOps+%26+AI+Engineer+%7C+Chorate+AI;Vibe+Coder+%E2%80%94+Architecture+first%2C+ship+fast" alt="Typing SVG"/>
 </a>
 
-<br/><br/>
-
-
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -41,28 +36,11 @@ const lyba = {
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lybaqadir&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=Lybaqadir&theme=tokyonight&no-frame=true&margin-w=8&column=6"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
