@@ -33,19 +33,6 @@ const lyba = {
   currentlyOn:      "AI-powered full stack products"
 };
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
