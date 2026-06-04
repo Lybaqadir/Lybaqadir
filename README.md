@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Lybaqadir&label=Profile+Views&color=764ba2&style=for-the-badge" alt="profile views"/>
 
 <br/><br/>
 
@@ -42,13 +41,12 @@ const lyba = {
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lybaqadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -64,7 +62,7 @@ const lyba = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lybaqadir&theme=tokyonight&no-frame=true&margin-w=8&column=6"/>
+<img src="https://github-trophies.vercel.app/?username=Lybaqadir&theme=tokyonight&no-frame=true&margin-w=8&column=6"/>
 
 </div>
 
