@@ -5,16 +5,12 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Hey!+I'm+Lyba+%F0%9F%91%8B;Full+Stack+Dev+%7C+AlexMind+Workspace+MVP;MLOps+%26+AI+Engineer+%7C+Chorate+AI;Vibe+Coder+%E2%80%94+Architecture+first%2C+ship+fast+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+Dev+%7C+AlexMind+Workspace+MVP;MLOps+%26+AI+Engineer+%7C+Chorate+AI;Vibe+Coder+%E2%80%94+Architecture+first%2C+ship+fast" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Lybaqadir&label=Profile+Views&color=764ba2&style=for-the-badge" alt="profile views"/>
-&nbsp;
-<a href="https://github.com/Lybaqadir?tab=followers">
-  <img src="https://img.shields.io/github/followers/Lybaqadir?label=Followers&style=for-the-badge&color=667eea" alt="followers"/>
-</a>
 
 <br/><br/>
 
@@ -32,15 +28,15 @@
 
 ```javascript
 const lyba = {
-  location:   "Doha, Qatar 🇶🇦",
-  education:  "BS Software Engineering @ UDST (2023–2027)",
-  roles:      [
-    "Full Stack Developer Intern @ AlexMind (2026)",
-    "MLOps / AI Engineer @ Chorate AI (Oct 2025 – Feb 2026)"
+  location:         "Doha, Qatar",
+  education:        "BS Software Engineering @ UDST (2023-2027)",
+  experience:       [
+    "Full Stack Developer Intern  @  AlexMind       (2026)",
+    "MLOps / AI Engineer          @  Chorate AI     (Oct 2025 - Feb 2026)"
   ],
-  superpower: "Vibe coding — understand the architecture, then ship fast ⚡",
-  interests:  ["backend systems", "LLM integration", "secure software", "full stack"],
-  currentlyWorking: "AI-powered full stack products 🚀"
+  superpower:       "Vibe coding — understand the architecture, then ship fast",
+  interests:        ["backend systems", "LLM integration", "secure software"],
+  currentlyOn:      "AI-powered full stack products"
 };
 ```
 
@@ -50,15 +46,15 @@ const lyba = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lybaqadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lybaqadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lybaqadir&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
+<img src="https://streak-stats.demolab.com?user=Lybaqadir&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -68,17 +64,7 @@ const lyba = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lybaqadir&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lybaqadir&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lybaqadir&theme=tokyonight&no-frame=true&margin-w=8&column=6"/>
 
 </div>
 
@@ -144,7 +130,7 @@ const lyba = {
 <td>
 
 ### 🧠 Full Stack Developer Intern · AlexMind *(2026)*
-Built the **entire frontend** of AlexMind Workspace MVP (Next.js, TypeScript, Tailwind). Contributed to backend APIs (Node.js, Express, Prisma, PostgreSQL) and AI integration (Gemini 2.5 Flash). Delivered file versioning, folder permissions, multi-document AI comparison, and automated email digests across 30+ sprint cards.
+Built the **entire frontend** of AlexMind Workspace MVP from scratch — Next.js App Router, TypeScript, Tailwind CSS. Contributed across backend APIs (Node.js, Express, Prisma, PostgreSQL) and AI integration (Gemini 2.5 Flash). Delivered file versioning, folder permissions, multi-document AI comparison, and automated email digests across 30+ sprint cards in a production codebase.
 
 </td>
 </tr>
@@ -152,7 +138,7 @@ Built the **entire frontend** of AlexMind Workspace MVP (Next.js, TypeScript, Ta
 <td>
 
 ### 🤖 MLOps / AI Engineer · Chorate AI *(Oct 2025 – Feb 2026)*
-Containerised services with Docker, built RESTful APIs with FastAPI, and contributed to a one-click LLM deployment platform. Integrated Hugging Face for real-time model browsing and deployment. Managed JupyterLab environments from within the application.
+Containerised backend and UI services with Docker. Built RESTful APIs with FastAPI and contributed to a one-click LLM deployment platform. Integrated Hugging Face for real-time model browsing and deployment. Managed JupyterLab environments directly from within the application.
 
 </td>
 </tr>
@@ -167,18 +153,18 @@ Containerised services with Docker, built RESTful APIs with FastAPI, and contrib
 <td width="50%">
 
 ### 🧠 AlexMind Workspace MVP
-AI-powered document management platform. Owned the full frontend (Next.js + TypeScript) and contributed to backend and AI layers. File versioning, RBAC, multi-document AI comparison, automated digests.
+AI-powered document management platform. Owned the complete frontend and contributed across backend and AI layers. Features: file versioning, RBAC, multi-document AI comparison, automated digests.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lybaqadir)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir)
 `Next.js` `Node.js` `Prisma` `Gemini API`
 
 </td>
 <td width="50%">
 
 ### 🔐 ShiftGuard
-Secure employee scheduling system with 2FA, rolling sessions, brute-force lockout, and role-based document uploads with full request logging.
+Secure employee scheduling system with 2FA via email, rolling session management, brute-force lockout, role-based document uploads, and full request logging.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lybaqadir/ShiftGuard)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir/ShiftGuard)
 `Node.js` `Express` `MongoDB` `SHA-256` `2FA`
 
 </td>
@@ -187,9 +173,9 @@ Secure employee scheduling system with 2FA, rolling sessions, brute-force lockou
 <td width="50%">
 
 ### 🏨 Secure Hotel Management System
-Desktop MVC app with RBAC across 3 roles, BCrypt auth, SQL injection prevention, audit logging, and STRIDE/DREAD threat modelling.
+Desktop MVC app with RBAC across 3 roles, BCrypt auth, SQL injection prevention via PreparedStatements, audit logging, and STRIDE/DREAD threat modelling.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lybaqadir/Secure-Hotel-Managment-System)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir/Secure-Hotel-Managment-System)
 `Java 17` `JavaFX` `MySQL` `BCrypt` `RBAC`
 
 </td>
@@ -198,20 +184,12 @@ Desktop MVC app with RBAC across 3 roles, BCrypt auth, SQL injection prevention,
 ### 🔧 GarageGo
 Java garage management system using OOP with Strategy and Decorator design patterns for flexible pricing and service customisation.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lybaqadir/GarageGo)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir/GarageGo)
 `Java` `OOP` `Design Patterns` `MVC`
 
 </td>
 </tr>
 </table>
-
----
-
-## 😂 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
-</div>
 
 ---
 
