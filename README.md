@@ -1,17 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:f5576c,100:4facfe&height=230&section=header&text=Lyba%20Qadir&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%9C%A8%20AI%20Integration%20%F0%9F%A4%96%20Secure%20Systems%20%F0%9F%94%90&descAlignY=56&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Lyba%20Qadir&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Integration%20%7C%20Secure%20Systems&descAlignY=55&descAlign=50"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F093FB&center=true&vCenter=true&random=false&width=800&lines=Hey!+I'm+Lyba+%F0%9F%91%8B;Full+Stack+Dev+%7C+AlexMind+Workspace+MVP+%F0%9F%9A%80;MLOps+%26+AI+Engineer+%7C+Chorate+AI+%F0%9F%A4%96;Vibe+Coder+%E2%80%94+Architecture+first%2C+ship+fast+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Hey!+I'm+Lyba+%F0%9F%91%8B;Full+Stack+Dev+%7C+AlexMind+Workspace+MVP;MLOps+%26+AI+Engineer+%7C+Chorate+AI;Vibe+Coder+%E2%80%94+Architecture+first%2C+ship+fast+%E2%9A%A1" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Lybaqadir&label=👀+Profile+Views&color=f093fb&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Lybaqadir?label=🤝+Followers&style=for-the-badge&color=4facfe&labelColor=1a1a2e"/>
+<img src="https://komarev.com/ghpvc/?username=Lybaqadir&label=Profile+Views&color=764ba2&style=for-the-badge" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/Lybaqadir?tab=followers">
+  <img src="https://img.shields.io/github/followers/Lybaqadir?label=Followers&style=for-the-badge&color=667eea" alt="followers"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -39,13 +50,16 @@ const lyba = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lybaqadir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lybaqadir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lybaqadir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lybaqadir&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lybaqadir&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
+
 </div>
 
 ---
@@ -53,7 +67,9 @@ const lyba = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lybaqadir&theme=radical&no-frame=true&margin-w=6&row=1"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lybaqadir&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=7"/>
+
 </div>
 
 ---
@@ -61,7 +77,9 @@ const lyba = {
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lybaqadir&theme=redical&hide_border=true&area=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lybaqadir&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true"/>
+
 </div>
 
 ---
@@ -126,7 +144,7 @@ const lyba = {
 <td>
 
 ### 🧠 Full Stack Developer Intern · AlexMind *(2026)*
-Built the **entire frontend** of AlexMind Workspace MVP (Next.js, TypeScript, Tailwind). Contributed to backend APIs (Node.js, Express, Prisma, PostgreSQL) and AI integration (Gemini 2.5 Flash). Delivered file versioning, folder permissions, multi-document AI comparison, and automated email digests. 30+ sprint cards across a production codebase.
+Built the **entire frontend** of AlexMind Workspace MVP (Next.js, TypeScript, Tailwind). Contributed to backend APIs (Node.js, Express, Prisma, PostgreSQL) and AI integration (Gemini 2.5 Flash). Delivered file versioning, folder permissions, multi-document AI comparison, and automated email digests across 30+ sprint cards.
 
 </td>
 </tr>
@@ -158,7 +176,7 @@ AI-powered document management platform. Owned the full frontend (Next.js + Type
 <td width="50%">
 
 ### 🔐 ShiftGuard
-Secure employee scheduling system with 2FA, rolling sessions, brute-force lockout, role-based document uploads, and full request logging.
+Secure employee scheduling system with 2FA, rolling sessions, brute-force lockout, and role-based document uploads with full request logging.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lybaqadir/ShiftGuard)
 `Node.js` `Express` `MongoDB` `SHA-256` `2FA`
@@ -178,7 +196,7 @@ Desktop MVC app with RBAC across 3 roles, BCrypt auth, SQL injection prevention,
 <td width="50%">
 
 ### 🔧 GarageGo
-Java garage management system using OOP, Strategy and Decorator design patterns for flexible pricing and service customisation.
+Java garage management system using OOP with Strategy and Decorator design patterns for flexible pricing and service customisation.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Lybaqadir/GarageGo)
 `Java` `OOP` `Design Patterns` `MVC`
@@ -192,7 +210,7 @@ Java garage management system using OOP, Strategy and Decorator design patterns 
 ## 😂 Random Dev Joke
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Dev Joke"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke"/>
 </div>
 
 ---
@@ -210,7 +228,9 @@ Java garage management system using OOP, Strategy and Decorator design patterns 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,50:f5576c,100:f093fb&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 
 **Built with 💜 by [Lybaqadir](https://github.com/Lybaqadir)**
+
 </div>
