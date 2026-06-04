@@ -33,6 +33,11 @@ const lyba = {
   currentlyOn:      "AI-powered full stack products"
 };
 ```
+
+---
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
