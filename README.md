@@ -24,7 +24,7 @@
 const lyba = {
   location:         "Doha, Qatar",
   education:        "BS Software Engineering @ UDST (2023-2027)",
-  status:           "Full-time student — all internships completed, back on campus",
+  status:           "Full-time student",
   experience:       [
     "Digital Innovation Intern      @  Qatar Airways  (Jun - Jul 2026)",
     "Full Stack Developer Intern    @  AlexMind       (Apr - Jun 2026)",
