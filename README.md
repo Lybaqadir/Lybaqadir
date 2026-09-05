@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Lyba%20Qadir&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Integration%20%7C%20Secure%20Systems&descAlignY=55&descAlign=50"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Full+Stack+Dev+%7C+AlexMind+Workspace+MVP;MLOps+%26+AI+Engineer+%7C+Chorate+AI;Vibe+Coder+%E2%80%94+Architecture+first%2C+ship+fast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Software+Engineering+Student+%40+UDST;Ex-Qatar+Airways+%7C+AlexMind+%7C+Chorate+AI;Vibe+Coder+%E2%80%94+Architecture+first%2C+ship+fast" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -24,17 +24,17 @@
 const lyba = {
   location:         "Doha, Qatar",
   education:        "BS Software Engineering @ UDST (2023-2027)",
+  status:           "Full-time student — all internships completed, back on campus",
   experience:       [
-    "Full Stack Developer Intern  @  AlexMind       (2026)",
-    "MLOps / AI Engineer          @  Chorate AI     (Oct 2025 - Feb 2026)"
+    "Digital Innovation Intern      @  Qatar Airways  (Jun - Jul 2026)",
+    "Full Stack Developer Intern    @  AlexMind       (Apr - Jun 2026)",
+    "MLOps / AI Engineer            @  Chorate AI     (Oct 2025 - Feb 2026)"
   ],
   superpower:       "Vibe coding — understand the architecture, then ship fast",
   interests:        ["backend systems", "LLM integration", "secure software"],
-  currentlyOn:      "AI-powered full stack products"
+  currentlyOn:      "Coursework + personal AI-driven projects"
 };
 ```
-
-
 
 ---
 
@@ -97,8 +97,16 @@ const lyba = {
 <tr>
 <td>
 
-### 🧠 Full Stack Developer Intern · AlexMind *(2026)*
-Built the **entire frontend** of AlexMind Workspace MVP from scratch — Next.js App Router, TypeScript, Tailwind CSS. Contributed across backend APIs (Node.js, Express, Prisma, PostgreSQL) and AI integration (Gemini 2.5 Flash). Delivered file versioning, folder permissions, multi-document AI comparison, and automated email digests across 30+ sprint cards in a production codebase.
+### ✈️ Digital Innovation Intern · Qatar Airways *(Jun – Jul 2026)*
+Digital Transformation & Platforms department. Prototyped an AI-powered workforce planning tool (role analysis, skill mapping, competency assessments, job description generation). Also worked on an AI storyboard-to-video project and a robotic arm integration.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🧠 Full Stack Developer Intern · AlexMind *(Apr – Jun 2026)*
+Built the entire frontend of AlexMind Workspace MVP (Next.js, TypeScript, Tailwind) and contributed backend APIs (Node.js, Express, Prisma, PostgreSQL) plus AI integration (Gemini 2.5 Flash).
 
 </td>
 </tr>
@@ -106,7 +114,7 @@ Built the **entire frontend** of AlexMind Workspace MVP from scratch — Next.js
 <td>
 
 ### 🤖 MLOps / AI Engineer · Chorate AI *(Oct 2025 – Feb 2026)*
-Containerised backend and UI services with Docker. Built RESTful APIs with FastAPI and contributed to a one-click LLM deployment platform. Integrated Hugging Face for real-time model browsing and deployment. Managed JupyterLab environments directly from within the application.
+Containerised services with Docker, built APIs with FastAPI, and contributed to a one-click LLM deployment platform integrating Hugging Face and JupyterLab.
 
 </td>
 </tr>
@@ -120,40 +128,53 @@ Containerised backend and UI services with Docker. Built RESTful APIs with FastA
 <tr>
 <td width="50%">
 
-### 🧠 AlexMind Workspace MVP
-AI-powered document management platform. Owned the complete frontend and contributed across backend and AI layers. Features: file versioning, RBAC, multi-document AI comparison, automated digests.
+### 🧭 TeamLens
+AI-powered workforce planning prototype built during my Qatar Airways internship — maps team skills, flags gaps, and recommends human vs. AI role fit.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir)
-`Next.js` `Node.js` `Prisma` `Gemini API`
+`React` `Vite` `Node.js` `LLM Integration`
 
 </td>
 <td width="50%">
 
-### 🔐 ShiftGuard
-Secure employee scheduling system with 2FA via email, rolling session management, brute-force lockout, role-based document uploads, and full request logging.
+### 🧠 AlexMind Workspace MVP
+AI-powered document management platform — owned the frontend, contributed backend and AI layers.
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir/ShiftGuard)
-`Node.js` `Express` `MongoDB` `SHA-256` `2FA`
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir)
+`Next.js` `Node.js` `Prisma` `Gemini API`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
+### 🔐 ShiftGuard
+Secure employee scheduling system with 2FA, session management, brute-force lockout, and RBAC.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir/ShiftGuard)
+`Node.js` `Express` `MongoDB` `SHA-256` `2FA`
+
+</td>
+<td width="50%">
+
 ### 🏨 Secure Hotel Management System
-Desktop MVC app with RBAC across 3 roles, BCrypt auth, SQL injection prevention via PreparedStatements, audit logging, and STRIDE/DREAD threat modelling.
+Desktop MVC app with RBAC, BCrypt auth, SQL injection prevention, and STRIDE/DREAD threat modelling.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir/Secure-Hotel-Managment-System)
 `Java 17` `JavaFX` `MySQL` `BCrypt` `RBAC`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔧 GarageGo
-Java garage management system using OOP with Strategy and Decorator design patterns for flexible pricing and service customisation.
+Java garage management system using Strategy and Decorator design patterns for flexible pricing.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lybaqadir/GarageGo)
 `Java` `OOP` `Design Patterns` `MVC`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
